@@ -5,11 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=malviyanikhil123&label=Profile%20views&color=0e75b6&style=flat" alt="malviyanikhil123" />
 </p>
 
-<!-- Image with border-radius -->
-<img align="right" alt="coding" width="320" 
-     src="https://img.freepik.com/free-photo/cartoon-man-wearing-glasses_23-2151136784.jpg" 
-     style="border-radius: 0px;"/>
-
 ### 🌱 About Me  
 - 🔭 I’m currently working as a **Software Engineer**  
 - 🌱 I’m currently learning **DevOps**  
