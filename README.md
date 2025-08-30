@@ -8,7 +8,7 @@
 ### 🌱 About Me  
 - 🔭 I’m currently working as a **Software Engineer**  
 - 🌱 I’m currently learning **DevOps**  
-- 👨‍💻 All of my projects are available at [Portfolio]([https://malviyanikhil123.github.io/Portfolio/](https://nikhilmalviya.vercel.app/))  
+- 👨‍💻 All of my projects are available at [Portfolio](https://nikhilmalviya.vercel.app/)  
 - 📫 How to reach me **nikhilmalviya8000@gmail.com**  
 
 ---
