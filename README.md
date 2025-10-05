@@ -26,7 +26,7 @@
 
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=malviyanikhil123&show_icons=true&locale=en&theme=radical&title_color=00ffff&icon_color=00ff99&text_color=c9d1d9&bg_color=0d1117&hide_border=true" alt="GitHub Stats" />
 
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=malviyanikhil123&show_icons=true&locale=en&layout=compact&theme=radical&title_color=00ffff&text_color=c9d1d9&bg_color=0d1117&hide_border=true" alt="Top Languages" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?   username=malviyanikhil123&show_icons=true&locale=en&layout=compact&theme=radical&title_color=00ffff&text_color=c9d1d9&bg_color=0d1117&hide_border=true" alt="Top Languages" />
 
 </p>
 
@@ -42,10 +42,13 @@
 
 <p align="left">
 
-<a href="https://nikhilmalviya.vercel.app/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Portfolio" height="30" width="40" /></a>
+<a href="https://nikhilmalviya.vercel.app/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Portfolio" height="30" width="40" />
+</a>
 
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/nikhil-malviya-80a6a0326/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/nikhil-malviya-80a6a0326/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+</a>
 
-<a href="https://www.instagram.com/_nostalgic_nikhil/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+<a href="https://www.instagram.com/_nostalgic_nikhil/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+</a>
 
 </p>
